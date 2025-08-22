@@ -1,0 +1,24 @@
+# .gitignore
+
+# Data and output
+/data/
+/output/
+
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
